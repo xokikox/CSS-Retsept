@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Shizuru&display=swap');
+
+
+body {
+    background-color: rgb(235, 230, 192);
+}
+
+.heading {
+text-align: center;
+padding-top: 2rem;
+}
+
+.playground-heading {
+font-family: 'Bebas Neue', cursive;
+font-size: 3rem;
+color: rgb(201, 201, 54);
+}
+
+.koostis {
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 0rem;
+    padding-bottom: 2rem;
+    color: rgb(70, 66, 66); 
+}
+
+.koostisosad {
+    border: 1px solid grey;
+    margin: 0 auto;   
+}
+
+.valmistamine {
+    margin: 0 auto;
+    width: 50%;
+    padding: 0rem;
+    color: rgb(70, 66, 66);
+
+}
+
+.pealk {
+ text-align: center;
+ font-family: 'Bebas Neue', cursive;
+ font-size: 2.5rem;
+ color: rgb(204, 204, 62);
+ padding-bottom: 0px;
+ padding-top: 0px;
+ 
+}
+
+.valmistamine ol {
+margin: 0 auto;
+width: 75%;
+border: 1px solid grey;
+padding-bottom: 1rem;
+padding-top: 1rem;
+
+}
+
+.keeksike {
+ text-align: center;
+ padding: 1rem;
+
+}
